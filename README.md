@@ -1,4 +1,6 @@
-# 💰misge Finance -  Finance App
+#project final
+
+💰misge Finance -  Finance App
 
 This application supports financial inclusion and education in line with the Sustainable Development Goals (SDP), namely SDG 1 (No Poverty) and SDG 4 (Quality Education).
 
