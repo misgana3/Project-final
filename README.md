@@ -1,6 +1,6 @@
-# 💰 Evista Finance - SDG Financial Literacy App
+# 💰misge Finance -  Finance App
 
-A  full-stack financial literacy application designed to help users master personal finance, budgeting, and investment through interactive courses and tools. Aligned with Sustainable Development Goals (SDG), particularly SDG 1 (No Poverty) and SDG 4 (Quality Education), this application promotes financial inclusion and education.
+This application supports financial inclusion and education in line with the Sustainable Development Goals (SDP), namely SDG 1 (No Poverty) and SDG 4 (Quality Education).
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -163,7 +163,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Joffopiyo/evista-finance-app.git
+git clone https://github.com/misgana3/Project-final.git
 cd evista-finance-app
 ```
 
