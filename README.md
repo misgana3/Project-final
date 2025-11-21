@@ -113,7 +113,7 @@ A  full-stack financial literacy application designed to help users master perso
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Joffopiyo/evista-finance-app.git
+   git clone https://github.com/misgana3/Project-final.git
    cd evista-finance-app
    ```
 
