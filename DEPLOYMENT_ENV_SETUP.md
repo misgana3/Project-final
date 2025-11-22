@@ -22,7 +22,7 @@ your-super-secret-jwt-key-make-it-long-and-random-at-least-32-characters
 ```
 https://your-vercel-frontend-url.vercel.app
 ```
-✅ Replace with your actual Vercel frontend URL (e.g., https://evista-finance-app.vercel.app)
+✅ Replace with your actual Vercel frontend URL 
 
 **PORT**
 ```
@@ -32,21 +32,17 @@ https://your-vercel-frontend-url.vercel.app
 
 ---
 
-## For Vercel Frontend (evista-finance-app-frontend)
+## For Vercel Frontend
 
 Copy and paste these environment variables into your Vercel dashboard → Settings → Environment Variables:
 
 ### Required Variables:
 
 **VITE_API_URL**
-```
-https://evista-finance-app-backend.onrender.com
-```
+
 ✅ This is your Render backend URL (already set in vercel.json, but good to have as env var)
 
-**VITE_FRONTEND_URL**
-```
-https://your-vercel-frontend-url.vercel.app
+**VITE_FRONTEND_URL*
 ```
 ✅ Replace with your actual Vercel frontend URL
 
@@ -89,9 +85,7 @@ ALLOWED_ORIGIN=https://your-vercel-url.vercel.app
 ```
 
 ### Vercel Environment Variables (copy these exact keys):
-```
-VITE_API_URL=https://evista-finance-app-backend.onrender.com
-VITE_FRONTEND_URL=https://your-vercel-url.vercel.app
+
 ```
 
 ---
