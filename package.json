@@ -1,7 +1,7 @@
 {
-  "name": "evista-finance-app",
+  "name": "misge-finance-app",
   "version": "1.0.0",
-  "description": "SDG Financial Literacy Full-Stack Application",
+  "description": "SDG Finance Full-Stack Application",
   "main": "backend/server.js",
   "scripts": {
     "start": "node backend/server.js",
