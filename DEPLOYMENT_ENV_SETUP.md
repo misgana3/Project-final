@@ -65,7 +65,7 @@ Before deploying:
 - [ ] MONGODB_URI set on Render with correct password
 - [ ] JWT_SECRET set on Render (any strong random string)
 - [ ] FRONTEND_URL set on Render (your Vercel URL)
-- [ ] VITE_API_URL set on Vercel (your Render URL: https://evista-finance-app-backend.onrender.com)
+- [ ] VITE_API_URL set on Vercel (your Render URL: https://misge-finance-app-backend.onrender.com)
 - [ ] VITE_FRONTEND_URL set on Vercel (your Vercel URL)
 - [ ] Render deploy triggered and "MongoDB Connected" shows in logs
 - [ ] Vercel deploy triggered and shows "Build successful"
